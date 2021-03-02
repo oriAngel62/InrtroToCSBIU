@@ -1,0 +1,84 @@
+Please select an operation:
+	0. Exit.
+	1. Insert or update a class.
+	2. Insert or update a student.
+	3. Remove a student from classes.
+	4. Print a class.
+	5. Print all classes with their computed scores.
+	6. Print the menu.
+Error: there are no classes.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Class "12345 t" added.
+Select the next operation (insert 6 for the entire menu):
+Class "12345 time travel" updated.
+Select the next operation (insert 6 for the entire menu):
+Class "12345 Defense Against the DARK ARTS " updated.
+Select the next operation (insert 6 for the entire menu):
+Class "90001 Potions 101" added.
+Select the next operation (insert 6 for the entire menu):
+Class "90001 Potions" updated.
+Select the next operation (insert 6 for the entire menu):
+Class "00000 muggle music  " added.
+Select the next operation (insert 6 for the entire menu):
+Class "40245 Herbology 345" added.
+Select the next operation (insert 6 for the entire menu):
+Class "09750 Broom Flying For Beginners" added.
+Select the next operation (insert 6 for the entire menu):
+Unfortunately, there is no room for more classes.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Class "00000 muggle music  " has no students.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Student "Harry Potter" added to class "09750 Broom Flying For Beginners" with grade 100.
+Student "Harry Potter" added to class "12345 Defense Against the DARK ARTS " with grade 98.
+Select the next operation (insert 6 for the entire menu):
+Student "Harry Potter" updated to class "12345 Defense Against the DARK ARTS " with grade 89.
+Select the next operation (insert 6 for the entire menu):
+Student "Hermione Granger" added to cl

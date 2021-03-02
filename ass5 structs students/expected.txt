@@ -1,0 +1,230 @@
+Please select an operation:
+	0. Exit.
+	1. Insert or update a class.
+	2. Insert or update a student.
+	3. Remove a student from classes.
+	4. Print a class.
+	5. Print all classes with their computed scores.
+	6. Print the menu.
+Error: there are no classes.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number or name.
+Select the next operation (insert 6 for the entire menu):
+Class "12345 t" added.
+Select the next operation (insert 6 for the entire menu):
+Class "12345 time travel" updated.
+Select the next operation (insert 6 for the entire menu):
+Class "12345 Defense Against the DARK ARTS " updated.
+Select the next operation (insert 6 for the entire menu):
+Class "90001 Potions 101" added.
+Select the next operation (insert 6 for the entire menu):
+Class "90001 Potions" updated.
+Select the next operation (insert 6 for the entire menu):
+Class "00000 muggle music  " added.
+Select the next operation (insert 6 for the entire menu):
+Class "40245 Herbology 345" added.
+Select the next operation (insert 6 for the entire menu):
+Class "09750 Broom Flying For Beginners" added.
+Select the next operation (insert 6 for the entire menu):
+Unfortunately, there is no room for more classes.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Class "00000 muggle music  " has no students.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name, class number or grade.
+Select the next operation (insert 6 for the entire menu):
+Student "Harry Potter" added to class "09750 Broom Flying For Beginners" with grade 100.
+Student "Harry Potter" added to class "12345 Defense Against the DARK ARTS " with grade 98.
+Select the next operation (insert 6 for the entire menu):
+Student "Harry Potter" updated on class "12345 Defense Against the DARK ARTS " with grade 89.
+Select the next operation (insert 6 for the entire menu):
+Student "Hermione Granger" added to class "90001 Potions" with grade 100.
+Student "Hermione Granger" added to class "09750 Broom Flying For Beginners" with grade 100.
+Student "Hermione Granger" added to class "40245 Herbology 345" with grade 100.
+Student "Hermione Granger" added to class "12345 Defense Against the DARK ARTS " with grade 100.
+Select the next operation (insert 6 for the entire menu):
+Student "Luna Lovegood" added to class "90001 Potions" with grade 100.
+Student "Luna Lovegood" added to class "40245 Herbology 345" with grade 0.
+Select the next operation (insert 6 for the entire menu):
+Student "Neville   Longbottom" added to class "12345 Defense Against the DARK ARTS " with grade 65.
+Student "Neville   Longbottom" added to class "90001 Potions" with grade 45.
+Student "Neville   Longbottom" added to class "09750 Broom Flying For Beginners" with grade 32.
+Select the next operation (insert 6 for the entire menu):
+Student "Draco Malfoy" added to class "40245 Herbology 345" with grade 93.
+Student "Draco Malfoy" added to class "12345 Defense Against the DARK ARTS " with grade 99.
+Select the next operation (insert 6 for the entire menu):
+Class "40245 Herbology 345" students:
+Draco Malfoy, 93
+Hermione Granger, 100
+Luna Lovegood, 0
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name or class number.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name or class number.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name or class number.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name or class number.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name or class number.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name or class number.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid name or class number.
+Select the next operation (insert 6 for the entire menu):
+Error: student is not a member of class "12345 Defense Against the DARK ARTS ".
+Select the next operation (insert 6 for the entire menu):
+Error: student cannot be removed from all classes.
+Select the next operation (insert 6 for the entire menu):
+Student "Luna Lovegood" removed from class "40245 Herbology 345".
+Select the next operation (insert 6 for the entire menu):
+Class "40245 Herbology 345" students:
+Draco Malfoy, 93
+Hermione Granger, 100
+Select the next operation (insert 6 for the entire menu):
+Class "00000 muggle music  " has no students.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number.
+Select the next operation (insert 6 for the entire menu):
+Error: invalid class number.
+Select the next operation (insert 6 for the entire menu):
+Class "09750 Broom Flying For Beginners" students:
+Harry Potter, 100
+Hermione Granger, 100
+Neville   Longbottom, 32
+Select the next operation (insert 6 for the entire menu):
+Please select the aggregation method:
+	a. Average Grade.
+	b. Maximal Grade.
+	c. Minimal Grade.
+	d. Sum.
+	e. Count.
+	0. Return to the main menu.
+12345 Defense Against the DARK ARTS , 88
+90001 Potions, 81
+Class "00000 muggle music  " has no students.
+40245 Herbology 345, 96
+09750 Broom Flying For Beginners, 77
+Select the next operation (insert 6 for the entire menu):
+Please select the aggregation method:
+	a. Average Grade.
+	b. Maximal Grade.
+	c. Minimal Grade.
+	d. Sum.
+	e. Count.
+	0. Return to the main menu.
+12345 Defense Against the DARK ARTS , 100
+90001 Potions, 100
+Class "00000 muggle music  " has no students.
+40245 Herbology 345, 100
+09750 Broom Flying For Beginners, 100
+Select the next operation (insert 6 for the entire menu):
+Please select the aggregation method:
+	a. Average Grade.
+	b. Maximal Grade.
+	c. Minimal Grade.
+	d. Sum.
+	e. Count.
+	0. Return to the main menu.
+12345 Defense Against the DARK ARTS , 65
+90001 Potions, 45
+Class "00000 muggle music  " has no students.
+40245 Herbology 345, 93
+09750 Broom Flying For Beginners, 32
+Select the next operation (insert 6 for the entire menu):
+Please select the aggregation method:
+	a. Average Grade.
+	b. Maximal Grade.
+	c. Minimal Grade.
+	d. Sum.
+	e. Count.
+	0. Return to the main menu.
+12345 Defense Against the DARK ARTS , 353
+90001 Potions, 245
+Class "00000 muggle music  " has no students.
+40245 Herbology 345, 193
+09750 Broom Flying For Beginners, 232
+Select the next operation (insert 6 for the entire menu):
+Please select the aggregation method:
+	a. Average Grade.
+	b. Maximal Grade.
+	c. Minimal Grade.
+	d. Sum.
+	e. Count.
+	0. Return to the main menu.
+12345 Defense Against the DARK ARTS , 4
+90001 Potions, 3
+Class "00000 muggle music  " has no students.
+40245 Herbology 345, 2
+09750 Broom Flying For Beginners, 3
+Select the next operation (insert 6 for the entire menu):
+Please select the aggregation method:
+	a. Average Grade.
+	b. Maximal Grade.
+	c. Minimal Grade.
+	d. Sum.
+	e. Count.
+	0. Return to the main menu.
+Select the next operation (insert 6 for the entire menu):
+Error: unrecognized operation.
+Select the next operation (insert 6 for the entire menu):
+Error: unrecognized operation.
+Select the next operation (insert 6 for the entire menu):
+Please select an operation:
+	0. Exit.
+	1. Insert or update a class.
+	2. Insert or update a student.
+	3. Remove a student from classes.
+	4. Print a class.
+	5. Print all classes with their computed scores.
+	6. Print the menu.
+Student "Hermione Granger" removed from class "90001 Potions".
+Student "Hermione Granger" removed from class "09750 Broom Flying For Beginners".
+Select the next operation (insert 6 for the entire menu):
+Class "09750 Broom Flying For Beginners" students:
+Harry Potter, 100
+Neville   Longbottom, 32
+Select the next operation (insert 6 for the entire menu):
