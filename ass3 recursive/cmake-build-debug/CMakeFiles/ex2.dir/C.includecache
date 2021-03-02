@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ori/Desktop/CS/ass3/ass3.c
+stdio.h
+-
+ass3.h
+C:/Users/ori/Desktop/CS/ass3/ass3.h
+
+C:/Users/ori/Desktop/CS/ass3/ass3.h
+
