@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ori/Desktop/ass6/Utils.h
+ex6.h
+C:/Users/ori/Desktop/ass6/ex6.h
+
+C:/Users/ori/Desktop/ass6/ex6.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+queue.h
+C:/Users/ori/Desktop/ass6/queue.h
+Utils.h
+C:/Users/ori/Desktop/ass6/Utils.h
+
+C:/Users/ori/Desktop/ass6/ex6.h
+
+C:/Users/ori/Desktop/ass6/queue.h
+
