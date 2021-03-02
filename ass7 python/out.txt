@@ -1,0 +1,9 @@
+Dance: ['Ballet Dance Shoes', 'Leotard', 'jazz dance shoes', 'skirted leotard', 'tap dance shoes']
+Fitness Cardio: ['EXCERCISE BIKE EB 120', 'Rowing machine 100', 'Treadmill', 'gym floor mat']
+Jogging: ['Running Gloves black', 'Running Shoes', 'Running jacket', 'Treadmill']
+Soccer: ['shin guards', 'soccer ball', 'soccer shoes']
+Sport attire: ['Leotard', 'Running Gloves black', 'Running jacket', 'one piece Girls swimsuit', 'skirted leotard', 'swimming gloves', 'wrist band']
+Swimming: ['goggles', 'long swim fins', 'one piece Girls swimsuit', 'pool bag 30L', 'swimming gloves']
+Tennis: ['Tennis Racket', 'Tennis balls 12-can pack', 'lizard skin bat grip', 'wrist band']
+boxing:
+yoga:
